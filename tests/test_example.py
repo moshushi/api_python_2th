@@ -1,6 +1,7 @@
 import pytest
 
-from src.summator import summator
+# from src.loader import summator
+from loader import summator
 
 
 # from ../src/summator import summator
