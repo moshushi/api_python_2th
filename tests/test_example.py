@@ -1,7 +1,8 @@
-
+def summator(a, b):
+    return a + b
 
 def test_one():
-    pass
+    assert summator(10, 20) == 30
 
 def test_two():
-    pass
+    assert summator(-10, -7) == 20
