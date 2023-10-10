@@ -1,7 +1,11 @@
 class Car:
-    wheels = 4
-
+    WHEELS = 4
     def drive(self):
         print("Car is driving")
-    def drive(self):
+    def stop(self):
         print("Car stopped")
+
+car = Car()
+
+print(car.WHEELS)
+car.stop()
