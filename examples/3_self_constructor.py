@@ -33,4 +33,4 @@ toyota_camry.drive()
 # toyota_camry.start_engine(key="1234")
 toyota_camry.engine_status = "On"
 toyota_camry.drive()
-# honda_trio = Car(brand="Honda", model="Civic", wheels=3)
+# honda_trio = Car(brand="Honda", model="Trio", wheels=3)

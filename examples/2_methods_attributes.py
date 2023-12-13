@@ -8,4 +8,7 @@ class Car:
 car = Car()
 
 print(car.WHEELS)
+print(Car.WHEELS)
+# print(Car.drive())
 car.stop()
+car.drive()
